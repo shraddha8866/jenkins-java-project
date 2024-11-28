@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> NETFLIX - YIT - ISE -  DEVOPS</h2>
+      <h2>AWS DEVOPS ISE YIT</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
